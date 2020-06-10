@@ -1,7 +1,9 @@
 ## Rich's GitHub Page
 
-need to figure out what to include
+I am an economist, trying to become a data scientist. 
 
-### subsection
+### Here are some of my repos.
+
+[My Github repos](https://github.com/rpmartin)
 
 
