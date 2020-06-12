@@ -1,6 +1,6 @@
 ## Rich's GitHub Page
 
-I am an economist, trying to become a data scientist. 
+Trying to git er done...
 
 ### Here are some of my repos.
 
